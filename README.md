@@ -24,7 +24,7 @@
 *   **Docker Compose支持**: 提供 Docker Compose一键部署方案。
 ## 线上体验 (Online Demo)
 
-*   **演示地址**: [https://admin.mysiteforme.com](https://admin.mysiteforme.com)
+*   **演示地址**: [https://admin.weizhengzs.cn](https://admin.weizhengzs.cn)
 *   **账号密码**: 自主邮箱注册
 
 ## 🛠️ 技术栈 (Tech Stack)
